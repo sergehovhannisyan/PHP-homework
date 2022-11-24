@@ -1,0 +1,18 @@
+/*  */
+ .navbar-toggler {
+    right: 0;
+    top: -4px;
+    transform: scale(0.65);
+}
+
+#sidebarMenu .nav-link {
+    color: #fff;
+}
+
+#sidebarMenu .nav-link.active {
+    font-weight: bold;
+}
+
+.form input[type="textarea"] {
+    height: 100px;
+}
